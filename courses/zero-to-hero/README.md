@@ -4,7 +4,8 @@
 
 ## 章节目录
 
-- [第 7 讲：Building a GPT](07-building-gpt/README.md)
+- [P7：Let's build GPT： from scratch, in code, spelled out.](<P7_Let's build GPT/README.md>)
+- [P8：State of GPT ｜ BRK216HFS](<P8_State of GPT-BRK216HFS/README.md>)
 
 
 ## 课程资料
