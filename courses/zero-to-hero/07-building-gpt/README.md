@@ -6,20 +6,18 @@
 
 ## 代码
 
-- [gpt.ipynb](notebooks/gpt.ipynb)：分步骤跟写、训练和生成文本。
+- [gpt.ipynb](notebooks/gpt.ipynb)：训练和生成文本。
 - [requirements.txt](requirements.txt)：运行依赖。
-- [download_data.py](scripts/download_data.py)：下载 Tiny Shakespeare 数据集。
 
 ## 运行
 
-在本章节目录下安装依赖并下载数据：
+在本章节目录下安装依赖：
 
 ```powershell
 python -m pip install -r requirements.txt
-python scripts/download_data.py
 ```
 
-打开 [gpt.ipynb](notebooks/gpt.ipynb)，选择 Python 环境并按顺序运行。Notebook 的工作目录设为 `notebooks/`，数据文件为 `notebooks/input.txt`。
+打开 [gpt.ipynb](notebooks/gpt.ipynb)，选择 Python 环境并按顺序运行。
 
 ## 参考资料
 
