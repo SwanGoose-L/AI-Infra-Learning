@@ -2,11 +2,12 @@
 
 [仓库首页](../../../README.md) / [Zero to Hero](../README.md) / Building a GPT
 
-从字符级 Bigram 模型出发，逐步加入因果自注意力、多头注意力、前馈网络、残差连接和 LayerNorm，构建一个可以训练和生成文本的小型 GPT。
+从字符级 Bigram 到 GPT，学习因果自注意力、多头注意力、前馈网络、残差连接和 LayerNorm。
 
-## 代码
+## 内容
 
-- [gpt.ipynb](notebooks/gpt.ipynb)：训练和生成文本。
+- [gpt_from_scratch.ipynb](notebooks/gpt_from_scratch.ipynb)：课堂笔记与分步骤练习。
+- [gpt.py](gpt.py)：完整模型、训练和文本生成代码。
 - [requirements.txt](requirements.txt)：运行依赖。
 
 ## 运行
@@ -17,7 +18,16 @@
 python -m pip install -r requirements.txt
 ```
 
-打开 [gpt.ipynb](notebooks/gpt.ipynb)，选择 Python 环境并按顺序运行。
+课堂笔记：打开 `notebooks/gpt_from_scratch.ipynb`，选择 Python 环境，按各节练习逐段运行。
+
+完整代码：先下载 Tiny Shakespeare 数据到本章节目录，再运行完整脚本：
+
+```powershell
+python -c "from urllib.request import urlretrieve; urlretrieve('https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt', 'input.txt')"
+python gpt.py
+```
+
+`gpt.py` 使用 6 层、384 维的配置，训练 5000 步后生成文本。课堂笔记与完整代码分别维护各自的练习和配置。
 
 ## 参考资料
 
