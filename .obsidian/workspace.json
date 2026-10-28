@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/zero-to-hero/P8_State of GPT-BRK216HFS/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,7 +190,11 @@
   },
   "active": "18eb8508a3a6e835",
   "lastOpenFiles": [
+    "courses/zero-to-hero/README.md",
     "courses/zero-to-hero/P8_State of GPT-BRK216HFS/State of GPT-Note.md",
+    "README.md",
+    "courses/zero-to-hero/P7_Let's build GPT/README.md",
+    "courses/zero-to-hero/P8_State of GPT-BRK216HFS/README.md",
     "assets/images/Pasted image 20261028200926.png",
     "assets/images/Pasted image 20261028200858.png",
     "assets/images/Pasted image 20261028200825.png",
@@ -202,10 +206,6 @@
     "assets/images/Pasted image 20261028200056.png",
     "assets/images/Pasted image 20261028195924.png",
     "assets/images",
-    "assets",
-    "courses/zero-to-hero/P8_State of GPT-BRK216HFS/README.md",
-    "courses/zero-to-hero/README.md",
-    "README.md",
-    "courses/zero-to-hero/P7_Let's build GPT/README.md"
+    "assets"
   ]
 }

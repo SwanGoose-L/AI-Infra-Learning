@@ -4,9 +4,9 @@
 
 ## 内容导航
 
-| 分类 | 内容 |
-|---|---|
-| 课程学习 | [Neural Networks: Zero to Hero](courses/zero-to-hero/README.md) |
+### 课程学习
+
+- [Neural Networks: Zero to Hero](courses/zero-to-hero/README.md)
 
 ## 说明
 
