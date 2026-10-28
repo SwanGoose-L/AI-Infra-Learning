@@ -27,8 +27,6 @@ python -c "from urllib.request import urlretrieve; urlretrieve('https://raw.gith
 python gpt.py
 ```
 
-`gpt.py` 使用 6 层、384 维的配置，训练 5000 步后生成文本。课堂笔记与完整代码分别维护各自的练习和配置。
-
 ## 参考资料
 
 - [B 站视频 · P7](https://www.bilibili.com/video/BV1mqrTBvEaf/?p=7)
