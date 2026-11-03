@@ -188,8 +188,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "65da174be32cdfdf",
+  "active": "060ea330ca738984",
   "lastOpenFiles": [
+    "courses/P7_Let's build GPT/notebooks/gpt_from_scratch.ipynb",
+    "courses/P7_Let's build GPT/notebooks/gpt.ipynb",
+    "courses/P7_Let's build GPT/notebooks",
+    "courses/P7_Let's build GPT/requirements.txt",
+    "courses/P7_Let's build GPT/README.md",
+    "courses/P7_Let's build GPT/gpt.py",
+    "courses/P7_Let's build GPT",
     "courses/zero-to-hero/README.md",
     "paper/GPT2_Language Models are Unsupervised Multitask Learners/中文翻译-Language Models are Unsupervised Multitask Learners.md",
     "paper/GPT2_Language Models are Unsupervised Multitask Learners/Language Models are Unsupervised Multitask Learners.pdf",
@@ -208,11 +215,6 @@
     "paper/GPT2_Language Models are Unsupervised Multitask Learners/assets/images/table-12.png",
     "paper/GPT2_Language Models are Unsupervised Multitask Learners/assets/images",
     "paper/GPT2_Language Models are Unsupervised Multitask Learners/assets",
-    "courses/zero-to-hero/P9_Let's build the GPT Tokenizer",
-    "courses/zero-to-hero/P9_",
-    "courses/zero-to-hero/新建文件夹",
-    "paper/GPT2_Language Models are Unsupervised Multitask Learners/Language Models are Unsupervised Multitask Learners.pdf.crdownload",
-    "paper/GPT2_Language Models are Unsupervised Multitask Learners",
     "courses/zero-to-hero/P8_State of GPT-BRK216HFS/README.md",
     "README.md",
     "courses/zero-to-hero/P7_Let's build GPT/README.md"
