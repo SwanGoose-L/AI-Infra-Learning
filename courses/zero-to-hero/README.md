@@ -6,7 +6,7 @@
 
 - [P7：Let's build GPT： from scratch, in code, spelled out.](<P7_Let's build GPT/README.md>)
 - [P8：State of GPT ｜ BRK216HFS](<P8_State of GPT-BRK216HFS/README.md>)
-
+- [P9：Let's build the GPT Tokenizer](<P9_Let's build the GPT Tokenizer/README.md>)
 
 ## 课程资料
 
